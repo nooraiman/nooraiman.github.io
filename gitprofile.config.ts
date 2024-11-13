@@ -46,7 +46,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Noor Aiman | DevOps Engineer',
-    description: 'Junior DevOps Engineer. Passionate about automating deployments, monitoring performance, and ensuring system reliability. Familiar with Kubernetes, Docker, Grafana, Jenkins, Bash scripting, and performance testing tools. Eager to learn and contribute to a collaborative team environment.',
+    description: 'Junior DevOps Engineer. Passionate about automating deployments, monitoring performance, and ensuring system reliability. Familiar with Kubernetes, Docker, Grafana, Jenkins, Bash scripting.',
     imageURL: '',
   },
   social: {
