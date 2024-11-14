@@ -118,7 +118,7 @@ const CONFIG = {
       name: 'CKA: Certified Kubernetes Administrator',
       body: 'Demonstrates proficiency in Kubernetes administration, including installation, configuration, networking, security, and troubleshooting.',
       year: 'Sept 2024',
-      link: 'https://example.com',
+      link: 'https://www.credly.com/badges/66e2bcbd-8328-4597-b658-4b16fcd9f8af/public_url',
     },
   ],
   educations: [
